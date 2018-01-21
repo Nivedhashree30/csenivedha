@@ -8,6 +8,6 @@ if(cout%2==0)
 {
  printf("%d",counter);
  }
- }
  return 0;
  }
+
