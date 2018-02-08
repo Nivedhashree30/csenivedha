@@ -28,8 +28,6 @@ j++;
 if(i>j)
 {
 printf("%s",str1);
-}
-else
 printf("%s",str2);
 }
 }
