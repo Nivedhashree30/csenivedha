@@ -13,6 +13,6 @@
    }
  Avg = Sum/n;
  printf("\nSum of the %d Num = %d",n, Sum);
-  printf("\nAvg of the %d Num = %.2f",n, Avg);
-return 0;
+  printf("\nAvg of the %d Num = %.2f",n,);
+  return 0;
 }
