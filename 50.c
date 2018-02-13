@@ -10,6 +10,7 @@ printf("\n Yes");
 }
 else
 {
-printf("\n No");
+printF("\n" No);
+return 0
 }
 }
