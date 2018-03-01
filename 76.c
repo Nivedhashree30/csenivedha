@@ -14,5 +14,4 @@
     printf("composite");
     else
     printf("not");
-    return 0;
     }
