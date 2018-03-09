@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+{
 int main()
 {
   int n,i,a[10];
@@ -12,4 +12,6 @@ int main()
           printf("%d",i);
       }
   }
+ return 0;
+}
 }
