@@ -8,5 +8,6 @@ for(i=0;i<n;i++)
 	sum=sum+next;
 	next=next+d;	
 }
+ return 0;
 printf("%d",sum);
 }
