@@ -21,4 +21,5 @@ void main()
 		}
 	}
 	printf("\nThe %d smallest number is %d :",k,a[k-1]);
+	return 0;
 }
